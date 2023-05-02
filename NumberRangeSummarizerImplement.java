@@ -6,7 +6,6 @@ import java.util.Collection;
 import java.util.List;
 public class NumberRangeSummarizerImplement implements NumberRangeSummarizer {
     public NumberRangeSummarizerImplement() {
-
     }
 
     //collect the input
